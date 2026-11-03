@@ -1,12 +1,10 @@
 package main
 
-
-import(
+import (
 	"fmt"
 )
 
-
-func main(){
+func main() {
 	fmt.Println("Hello World")
-
+	fmt.Println("I am your za warudo")
 }
